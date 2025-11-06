@@ -1,0 +1,18 @@
+{
+    "jira": {
+        "BASE_URL": "http://jira-apps.kccmalls.com:8080",
+        "USERNAME": "xzyl.rey.t.arpon",
+        "PASSWORD": "kcc"
+    },
+    "rocket": {
+        "ROCKET_URL": "https://rc-itsupport.kccmalls.net",
+        "AUTH_TOKEN": "fumXx2o_o2q4MVJF8Jn60jgv0R2zAgMqeVvBmUbDeCQ",
+        "USER_ID": "gLdiygGKeRi6SQ9i4",
+        "ROOM_ID": "68d1f6070f7cac253063f78a",
+        "STATUS_ROOM": "6874e9617d0fe8a06771e202"
+    },
+    "update": {
+        "check_url": "https://raw.githubusercontent.com/YOUR_USERNAME/jira-notifier-updates/main/jira_updater.json"
+    },
+    "version": "10.0.0"
+}
