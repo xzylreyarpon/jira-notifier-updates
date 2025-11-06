@@ -1,5 +1,5 @@
 {
-    "version": "10.2.1",
-    "download_url": "https://github.com/xzylreyarpon/jira-notifier-updates/releases/download/v10.2.1/jira.exe",
+    "version": "10.2.2",
+    "download_url": "https://github.com/xzylreyarpon/jira-notifier-updates/releases/download/v10.2.2/jira.exe",
     "changelog": "✨Update on rocket chat sending logs\n🐞 Fixed plan_today.txt directory error.\n🧭 Improved system health stability.\n📊 Enhanced stats dashboard performance."
 }
