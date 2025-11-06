@@ -1,5 +1,5 @@
 {
-    "version": "10.2.2",
-    "download_url": "https://github.com/xzylreyarpon/jira-notifier-updates/releases/download/v10.2.2/jira.exe",
-    "changelog": "✨Update on Auto Updater not Executing properly"
+    "version": "10.2.3",
+    "download_url": "https://github.com/xzylreyarpon/jira-notifier-updates/releases/download/v10.2.3/jira.exe",
+    "changelog": "✨HOTFIX✨\n✨Update on Auto Updater"
 }
