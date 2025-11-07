@@ -1,5 +1,5 @@
 {
-    "version": "10.2.8",
-    "download_url": "https://github.com/xzylreyarpon/jira-notifier-updates/releases/download/v10.2.8/jira.exe",
-    "changelog": "[+] Update on Auto Updater\n[+] Added new features.\n[+] Added Developer Access."
+    "version": "10.2.9",
+    "download_url": "https://github.com/xzylreyarpon/jira-notifier-updates/releases/download/v10.2.9/jira.exe",
+    "changelog": "[+] ADDED NEW TRAY ICON BUTTON [IGNORE NAMES]."
 }
