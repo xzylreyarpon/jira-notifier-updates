@@ -1,5 +1,6 @@
 {
-    "version": "10.2.9",
-    "download_url": "https://github.com/xzylreyarpon/jira-notifier-updates/releases/download/v10.2.9/jira.exe",
-    "changelog": "[+] ADDED NEW TRAY ICON BUTTON [IGNORE NAMES]."
+    "version": "10.3.0",
+    "download_url": "https://github.com/xzylreyarpon/jira-notifier-updates/releases/download/v10.3.0/jira.exe",
+    "changelog": "[+] Fix Global Configuration in CONFIG_DIALOG\\n\n[+] Added DEVELOPER Mode in other GUI's\\n\n[+] Added new Feature Jira_Updater.jso Config\\n\n[+] Refactored the file configurations locations into DATA folder.",
+    "check_url": "https://raw.githubusercontent.com/xzylreyarpon/jira-notifier-updates/main/jira_updater.json"
 }
