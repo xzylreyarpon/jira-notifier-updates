@@ -1,6 +1,6 @@
 {
-    "version": "10.3.1",
-    "download_url": "https://github.com/xzylreyarpon/jira-notifier-updates/releases/download/v10.3.1/jira.exe",
-    "changelog": "[+] Change the GUI in Productivity HUD for more smooth and fast.\n[+] Added new Function in Productivity HUD (Time Keeper)\n[+] Added New Maintenance Function in DevMode",
+    "version": "10.3.2",
+    "download_url": "https://github.com/xzylreyarpon/jira-notifier-updates/releases/download/v10.3.2/jira.exe",
+    "changelog": "[+] Added buttons on Productivity HUD\n[+] Added Filter on Notification Center\n[+] Fixed Productivity Time out\n[+] Reworked Notification Center Design and Layout",
     "check_url": "https://raw.githubusercontent.com/xzylreyarpon/jira-notifier-updates/main/jira_updater.json"
 }
