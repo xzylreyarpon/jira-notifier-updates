@@ -1,6 +1,6 @@
 {
-    "version": "10.3.3",
-    "download_url": "https://github.com/xzylreyarpon/jira-notifier-updates/releases/download/v10.3.3/jira.exe",
-    "changelog": "[+] Update on the new updater from Tkinter to PyQt5, ensuring it doesn\u2019t terminate the running PyQt5 thread.\n[+] Update on the Productivity HUD.\n[+] Update on Developer Mode.",
+    "version": "10.3.4",
+    "download_url": "https://github.com/xzylreyarpon/jira-notifier-updates/releases/download/v10.3.4/jira.exe",
+    "changelog": "[+] HOTFIX of v10.3.3",
     "check_url": "https://raw.githubusercontent.com/xzylreyarpon/jira-notifier-updates/main/jira_updater.json"
 }
