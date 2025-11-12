@@ -1,6 +1,6 @@
 {
-    "version": "10.3.2",
-    "download_url": "https://github.com/xzylreyarpon/jira-notifier-updates/releases/download/v10.3.2/jira.exe",
-    "changelog": "[+] Added buttons on Productivity HUD\n[+] Added Filter on Notification Center\n[+] Fixed Productivity Time out\n[+] Reworked Notification Center Design and Layout",
+    "version": "10.3.3",
+    "download_url": "https://github.com/xzylreyarpon/jira-notifier-updates/releases/download/v10.3.3/jira.exe",
+    "changelog": "[+] Update on the new updater from Tkinter to PyQt5, ensuring it doesn\u2019t terminate the running PyQt5 thread.\n[+] Update on the Productivity HUD.\n[+] Update on Developer Mode.",
     "check_url": "https://raw.githubusercontent.com/xzylreyarpon/jira-notifier-updates/main/jira_updater.json"
 }
