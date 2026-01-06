@@ -1,6 +1,6 @@
 {
-    "version": "10.3.4",
-    "download_url": "https://github.com/xzylreyarpon/jira-notifier-updates/releases/download/v10.3.4/jira.exe",
-    "changelog": "[+] HOTFIX of v10.3.3",
+    "version": "10.3.9",
+    "download_url": "https://github.com/xzylreyarpon/jira-notifier-updates/releases/download/v10.3.9/jira.exe",
+    "changelog": "No new, just you.",
     "check_url": "https://raw.githubusercontent.com/xzylreyarpon/jira-notifier-updates/main/jira_updater.json"
 }
