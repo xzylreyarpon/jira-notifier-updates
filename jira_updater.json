@@ -3,10 +3,5 @@
     "version": "20.0.1",
     "download_url": "https://github.com/xzylreyarpon/jira-notifier-updates/releases/download/v20.0.1/main.exe",
     "changelog": "No New, Just You.",
-=======
-    "version": "20.0.0",
-    "download_url": "https://github.com/xzylreyarpon/jira-notifier-updates/releases/download/v20.0.0/main.exe",
-    "changelog": "No new, Just you.",
->>>>>>> 22b5a2b53713c790c79b300b011f3de040322d78
     "check_url": "https://raw.githubusercontent.com/xzylreyarpon/jira-notifier-updates/main/jira_updater.json"
 }
